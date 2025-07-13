@@ -12,7 +12,7 @@ Follow these steps to get the project running on your local machine:
 ### 1. Install dependencies
 
 ```bash
-git clone https://github.com/your-username/employee-management.git
+git clone https://github.com/emrecekci/employee-management.git
 cd employee-management
 npm install
  ```
