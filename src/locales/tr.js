@@ -1,0 +1,22 @@
+export default {
+  employeeList: 'Çalışan Listesi',
+  addEmployee: 'Çalışan Ekle',
+  editEmployee: 'Çalışanı Düzenle',
+  firstName: 'Ad',
+  lastName: 'Soyad',
+  dob: 'Doğum Tarihi',
+  employmentDate: 'İşe Başlama',
+  phone: 'Telefon',
+  email: 'E-posta',
+  department: 'Departman',
+  position: 'Pozisyon',
+  save: 'Kaydet',
+  cancel: 'İptal',
+  deleteConfirm: 'Silmek istediğinize emin misiniz?',
+  delete: 'Sil',
+  proceed: 'Onayla',
+  pleaseSelect: 'Lütfen seçiniz',
+  actions: 'İşlemler',
+  edit: 'Düzenle',
+  deleteMessage: 'adlı çalışanı silmek istediğinize emin misiniz?'
+};

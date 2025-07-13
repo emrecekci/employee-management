@@ -1,0 +1,22 @@
+export default {
+  employeeList: 'Employee List',
+  addEmployee: 'Add Employee',
+  editEmployee: 'Edit Employee',
+  firstName: 'First Name',
+  lastName: 'Last Name',
+  dob: 'Date of Birth',
+  employmentDate: 'Date of Employment',
+  phone: 'Phone',
+  email: 'Email',
+  department: 'Department',
+  position: 'Position',
+  save: 'Save',
+  cancel: 'Cancel',
+  deleteConfirm: 'Are you sure you want to delete?',
+  delete: 'Delete',
+  proceed: 'Proceed',
+  pleaseSelect: 'Please select',
+  actions: 'Actions',
+  edit: 'Edit',
+  deleteMessage: 'Are you sure you want to delete employee'
+};
